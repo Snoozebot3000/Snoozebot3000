@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on an Ultra High Vacuum Chamber for technology development for the University of Maryland
+- 🌱 I’m currently learning Rust and PyTorch
+- 👯 I’m looking to collaborate on robotics projects for space and other extreme environments
+- 😄 Pronouns: He/Him/His
+- ⚡ Fun fact: Cosplays as a system administrator on the weekends
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://limpar.is/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/nicholas-limparis)
+<!-- [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/) -->
